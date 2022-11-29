@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pexels-rodnae-productions-5637731.jpg);
+    background-size: cover;
+    opacity:1;
+}
+
+#club {
+    padding: 30px;
+    margin: 20px;
+}
+
+legend {
+    text-align: right;
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 25px;
+}
+
+
+label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#field1 {
+    color: white;
+}
+
+#field2 {
+    color: white;
+}
+
+#precio {
+    font: size 16px;;
+}
+
+
